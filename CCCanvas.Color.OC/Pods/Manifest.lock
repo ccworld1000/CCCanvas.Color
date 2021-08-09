@@ -1,0 +1,16 @@
+PODS:
+  - CCCanvas (0.0.1)
+
+DEPENDENCIES:
+  - CCCanvas (from `/Users/cc/cc.git/CCCanvas`)
+
+EXTERNAL SOURCES:
+  CCCanvas:
+    :path: "/Users/cc/cc.git/CCCanvas"
+
+SPEC CHECKSUMS:
+  CCCanvas: 51fcde3669b9f4159e440b52b54e941af5cb470a
+
+PODFILE CHECKSUM: ab9d696c89a18318fbc060e6c4c7bd8b79fd6d4c
+
+COCOAPODS: 1.10.2
