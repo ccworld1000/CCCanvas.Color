@@ -6,6 +6,6 @@ target 'CCCanvas.Color.OC' do
   use_frameworks!
 
   # Pods for CCCanvas.Color.OC
-	pod 'CCCanvas', path: "/Users/cc/cc.git/CCCanvas"
+	pod 'CCCanvas'
 
 end

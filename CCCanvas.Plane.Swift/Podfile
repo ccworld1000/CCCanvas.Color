@@ -6,6 +6,6 @@ target 'CCCanvas.Plane.Swift' do
   use_frameworks!
 
   # Pods for CCCanvas.Plane.Swift
-	pod 'CCCanvas', path: "/Users/cc/cc.git/CCCanvas"
+	pod 'CCCanvas'
 
 end
