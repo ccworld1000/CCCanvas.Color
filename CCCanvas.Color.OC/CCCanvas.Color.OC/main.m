@@ -2,8 +2,8 @@
 //  main.m
 //  CCCanvas.Color.OC
 //
-//  Created by CC (deng you hua | cworld1000@gmail.com) on 2021/8/9.
-//
+//  Created by CC (deng you hua | cworld1000@gmail.com) on 2021/09/07.
+//  https://github.com/ccworld1000/CCCanvas.Color
 
 #import <UIKit/UIKit.h>
 #import "AppDelegate.h"
@@ -16,3 +16,4 @@ int main(int argc, char * argv[]) {
     }
     return UIApplicationMain(argc, argv, nil, appDelegateClassName);
 }
+

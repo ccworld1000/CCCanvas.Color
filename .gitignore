@@ -1,6 +1,9 @@
-Podfile.lock
+Pods
+CCCanvas.Color.OC/Pods
+CCCanvas.Color.Swift/Pods
+
 .DS_Store
-Pods/*
+Podfile.lock
 
 # Xcode
 #
@@ -70,3 +73,4 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
